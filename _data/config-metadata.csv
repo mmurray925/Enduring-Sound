@@ -5,8 +5,9 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 maker, Maker
+model, Model
 materials, Materials
-location,Location
+location,Location 
 latitude,Latitude
 longitude,Longitude
 source,Source
