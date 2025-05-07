@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: banner
+featured-image: https://media-hosting.imagekit.io/ed3cc8d401144465/banner.jpeg?Expires=1841253237&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=YlaGs81wpWow3CvkKzrALm~2QZUvOgtwIMFrbrD9uJR8hq82jnNXKASjwKoBP-78HLAh2yEbJDLBx6Q7xttCozEu1C1Wo8zcIplzBeVVJdwnJ9Rz7XdpOSrpaND3cDsMUhx6RVbZik1eDF3E9uxtQwdwlSi9Tr-KFHTw0waNpg52vGRqnntqovM2UBO-GOsSm4plqiOUPRsi1lhu3O93qBH4QRaUGqE3RBZhI2vv4sN2nze71PoWqauPdceZOwaat7BHLogLFH39LCjrAUcwS-ZqCnPtEL1N1cqLF8DOshiEiuzO~nB4tAL0uqwsGdMEhkfJSfTDx3O7t3BXF7a7SA__
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
