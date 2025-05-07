@@ -2,7 +2,7 @@ color_class,color
 primary, #ff9682
 secondary, #5B443E
 success, #e6d5a9
-info,
+info, #e6d5a9
 warning,
 danger,
 light,
