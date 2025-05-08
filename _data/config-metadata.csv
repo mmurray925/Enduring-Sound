@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+date,Date of Manufacture,
 description,Description,
 subject,Subjects,true
 maker,Maker,true
 model,Model,true
 materials,Materials,true
-location,Location_of_Manufacture
+location,Location of Manufacture
 latitude,Latitude
 longitude,Longitude
 source,Source
