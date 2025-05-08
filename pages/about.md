@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+These instruments are all currently owned by individuals who are not the original owners, all of whom take great interest in their rich history. Many of them have been played together in performances and casual jam sessions. They serve as living proof of the enduring power and graceful aging of their designs and materials. Special thanks to Steve Jeffries, Samantha Cody, and Evan Goldstein for their seemingly infinite wisdom and expertise on the history of these instruments, and for years of playing along together. 
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
@@ -24,4 +26,4 @@ The template repository features four objects from the University of Idaho Libra
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
