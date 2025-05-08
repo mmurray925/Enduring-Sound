@@ -7,7 +7,7 @@ subject,Subjects,true
 maker,Maker,true
 model,Model,true
 materials,Materials,true
-location,Location of Manufacture
+location,Location_of_Manufacture
 latitude,Latitude
 longitude,Longitude
 source,Source
