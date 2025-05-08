@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date of Manufacture,
+date,Date,
 description,Description,
 subject,Subjects,true
 maker,Maker,true
