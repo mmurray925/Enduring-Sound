@@ -4,9 +4,9 @@ creator,Creator,
 date,Date of Manufacture,
 description,Description,
 subject,Subjects,true
-maker,Maker,,true
-model,Model,,true
-materials,Materials,true
+maker,Maker,
+model,Model,true
+materials,Materials
 location,Location of Manufacture
 latitude,Latitude
 longitude,Longitude
